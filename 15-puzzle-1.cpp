@@ -13,10 +13,10 @@ public :
         std::string a;
         while( p ) {
             createBoard();
-            // while( !isDone() ) {
-            //     drawBoard();
-            //     getMove();
-            //}
+             while( !isDone() ) {
+                 drawBoard();
+                 getMove();
+            }
             drawBoard();
             std::cout << "\n\nCongratulations!\nPlay again (Y/N)?";
             std::cin >> a;
@@ -103,6 +103,7 @@ private:
                     return;
                 }
             }
+            std::cout << "Wrong move, choose a possible move\n";
         }
     }
 
