@@ -1,0 +1,3 @@
+/home/clinton/Projects/C/pocketDB/build/CMakeFiles/rebuild_cache.dir
+/home/clinton/Projects/C/pocketDB/build/CMakeFiles/edit_cache.dir
+/home/clinton/Projects/C/pocketDB/build/CMakeFiles/pocketDB.dir

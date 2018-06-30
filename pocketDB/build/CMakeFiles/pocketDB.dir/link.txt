@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/pocketDB.dir/input.c.o CMakeFiles/pocketDB.dir/treemap.c.o CMakeFiles/pocketDB.dir/main.c.o CMakeFiles/pocketDB.dir/output.c.o  -o pocketDB 
